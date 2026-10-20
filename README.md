@@ -28,8 +28,6 @@
 
 - 💻 Desenvolvedor focado em criar soluções práticas, eficientes e bem estruturadas.
 - 🚀 Sempre explorando novas tecnologias, arquiteturas e boas práticas de desenvolvimento.
-- 📊 Meu perfil abaixo é **100% dinâmico** — todas as métricas de commits, linguagens e atividades se atualizam sozinhas em tempo real.
-
 ---
 
 ### <img src="https://media.giphy.com/media/kMzycTpg1FyZG/giphy.gif" width="38" align="absmiddle" alt="Goku" /> Destaques & Estatísticas Atuais
