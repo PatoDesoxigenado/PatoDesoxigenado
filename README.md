@@ -38,7 +38,7 @@
 
   <!-- Cards principais: Status Gerais (Commits, Stars, PRs) + Principais Linguagens Atuais -->
   <a href="https://github.com/PatoDesoxigenado">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PatoDesoxigenado&show_icons=true&bg_color=0D1117&title_color=FF8C00&text_color=F8FAFC&icon_color=FACC15&border_color=30363D&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PatoDesoxigenado&show_icons=true&bg_color=0D1117&title_color=FF8C00&text_color=F8FAFC&icon_color=FACC15&border_color=30363D&border_radius=10" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/PatoDesoxigenado">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatoDesoxigenado&layout=compact&langs_count=6&bg_color=0D1117&title_color=FF8C00&text_color=F8FAFC&border_color=30363D&border_radius=10" alt="Principais Linguagens" />
