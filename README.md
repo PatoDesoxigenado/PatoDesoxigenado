@@ -7,7 +7,7 @@
 
   <!-- Subtítulo animado com alto contraste -->
   <a href="https://github.com/PatoDesoxigenado">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FF8C00&center=true&vCenter=true&width=600&lines=Desenvolvedor+de+Software+%26+Entusiasta+de+Tecnologia;Transformando+caf%C3%A9+e+l%C3%B3gica+em+c%C3%B3digo+limpo;Elevando+o+Ki+a+cada+novo+commit!+%F0%9F%94%A5" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FF8C00&center=true&vCenter=true&width=750&lines=Desenvolvedor+de+Software+%26+Entusiasta+de+Tecnologia;Transformando+caf%C3%A9+e+l%C3%B3gica+em+c%C3%B3digo+limpo;Elevando+o+Ki+a+cada+novo+commit!+%E2%9A%A1" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -36,10 +36,10 @@
 
   <!-- Cards principais: Status Gerais (Commits, Stars, PRs) + Principais Linguagens Atuais -->
   <a href="https://github.com/PatoDesoxigenado">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PatoDesoxigenado&show_icons=true&bg_color=0D1117&title_color=FF8C00&text_color=F8FAFC&icon_color=FACC15&border_color=30363D&border_radius=10" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PatoDesoxigenado&show_icons=true&bg_color=0D1117&title_color=FF8C00&text_color=F8FAFC&icon_color=FACC15&border_color=30363D&border_radius=10" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/PatoDesoxigenado">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatoDesoxigenado&layout=compact&langs_count=6&bg_color=0D1117&title_color=FF8C00&text_color=F8FAFC&border_color=30363D&border_radius=10" alt="Principais Linguagens" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PatoDesoxigenado&layout=compact&langs_count=6&bg_color=0D1117&title_color=FF8C00&text_color=F8FAFC&border_color=30363D&border_radius=10" alt="Principais Linguagens" />
   </a>
 
   <br/><br/>
